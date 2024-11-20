@@ -31,5 +31,5 @@ A graphical user interface (GUI) calculator built using Python's `tkinter` libra
    ```bash
    python calculator.py
 
-![Calculator Screenshot](ReallyOverlyComplicatedCalulatronicDevice.png)
+![Calculator Screenshot](Simple Calculator.png)
 
